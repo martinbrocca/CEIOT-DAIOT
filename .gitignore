@@ -1,2 +1,2 @@
 # Ignore configuration and secrets file:
-iot_configs.h
+*/iot_configs.h
